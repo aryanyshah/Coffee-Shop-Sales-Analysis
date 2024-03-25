@@ -1,8 +1,7 @@
 # Coffee-Chain-Sales-Analysis
 
-Why is it needed?
+## Why is it needed?
 Performance Assessment: Overview of the overall work to choose the correct option.
-
 Identifying Trends: Appreciate sales trends and make appropriate marketing and operational adjustments.
 Forecast Revenues: Create realistic budget resources and allocate future income.
 Inventories Optimization: Cranking up inventory levels improves distribution chain efficiency. Marketing and Promotions: Tailor marketing to make as much money back as possible from all subsequent sales.Competition Analysis: Sales success translates into positioning in the market's mind; helps us make strategic decisions accordingly.
@@ -12,6 +11,7 @@ Operational efficiency: Clean up any konking tracks to make sure everything runs
 So, sales analysis is necessary for measuring performance. And for finding trends, forecasting revenues, managing operations, and making data-driven decisions. All of this aims to ensure that the enterprise continues to grow organically while keeping costs manageable.
 
 # About the dataset:
+
 transaction_id: A unique identifier for each transaction.
 transaction_date: The date when the transaction took place, providing a chronological record of transactions.
 transaction_time: The time of day when the transaction occurred.

@@ -2,6 +2,7 @@
 
 Why is it needed?
 Performance Assessment: Overview of the overall work to choose the correct option.
+
 Identifying Trends: Appreciate sales trends and make appropriate marketing and operational adjustments.
 Forecast Revenues: Create realistic budget resources and allocate future income.
 Inventories Optimization: Cranking up inventory levels improves distribution chain efficiency. Marketing and Promotions: Tailor marketing to make as much money back as possible from all subsequent sales.Competition Analysis: Sales success translates into positioning in the market's mind; helps us make strategic decisions accordingly.
